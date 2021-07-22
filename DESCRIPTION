@@ -1,0 +1,15 @@
+Package: ZenAnnotation
+Type: R-package
+Title: ZenAnnotation: A complete gene functional annotation specialized
+        in plant species
+Version: 2.0
+Author: Andrea Ghelfi [aut, cre]
+Maintainer: Andrea Ghelfi <andreaghelfi@gmail.com>
+Description: ZenAnnotation uses KusakiDB_v2.0 as database plus Bacteria, Fungi, Invertebrate and Vertebrate from OrthoDB 10.1
+Depends: R(>= 3.6.0), RMariaDB, data.table, stringr
+License: MIT
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.1.1
+NeedsCompilation: no
+Packaged: 2021-07-22 05:58:22 UTC; andreaghelfi
